@@ -18,7 +18,7 @@
 
 ## 👨‍🔬 Sobre mí
 
-Soy **Fredy Camilo Bonilla Cristancho**, Ingeniero Químico en formación en la **Universidad Industrial de Santander (UIS)** y Tecnólogo en Análisis y Desarrollo de Software en el **SENA**. Combino la ingeniería química con la inteligencia artificial para construir soluciones reales en la industria alimentaria y el tratamiento de aguas.
+Soy **Fredy Camilo Bonilla Cristancho**, Ingeniero Químico de la **Universidad Industrial de Santander (UIS)** y Tecnólogo en Análisis y Desarrollo de Software en el **SENA**. Combino la ingeniería química con la inteligencia artificial para construir soluciones reales en la industria alimentaria y el tratamiento de aguas entre otros.
 
 ```python
 camilo = {
