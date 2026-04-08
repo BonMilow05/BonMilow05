@@ -24,7 +24,7 @@ Soy **Fredy Camilo Bonilla Cristancho**, Ingeniero Químico de la **Universidad 
 camilo = {
     "ubicación":    "Floridablanca, Santander 🇨🇴",
     "universidad":  "Universidad Industrial de Santander — Ing. Química (2026)",
-    "actualmente":  "Modelo ML para clasificación de DBO en cuencas colombianas",
+    "actualmente":  "Modelo ML para clasificación de DBO en aguas superficiales",
     "aprendiendo":  ["Full Stack Development", "Deep Learning", "ADSO - SENA"],
     "intereses":    ["Innovación de productos", "IA aplicada a procesos", "Simulación"],
     "hobbies":      ["☕ Café de especialidad", "🏀 Baloncesto", "⌨️ Programación"],
@@ -78,7 +78,7 @@ camilo = {
 
 ### 🌊 Clasificación de DBO mediante Aprendizaje Automático
 ### *para la Evaluación Ecológica de la Calidad del Agua*
-#### Un Marco Transferible con Aplicaciones en Cuencas Hidrográficas Colombianas
+#### Un Marco Transferible con Aplicaciones en Cuencas Hidrográficas
 
 </div>
 
@@ -95,7 +95,7 @@ camilo = {
   </tr>
   <tr>
     <td>📊 <b>Datos</b></td>
-    <td>Cuencas hidrográficas colombianas</td>
+    <td>Cuencas hidrográficas</td>
   </tr>
   <tr>
     <td>🎯 <b>Objetivo</b></td>
