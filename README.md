@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="./banner.jpg" alt="Camilo Bonilla — Chemical Engineer & Developer" width="100%" style="border-radius:8px"/>
+  <img src="./bann3r.jpg" alt="Camilo Bonilla — Chemical Engineer & Developer" width="100%" style="border-radius:8px"/>
 </div>
 
 <br/>
