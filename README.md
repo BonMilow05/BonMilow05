@@ -27,7 +27,7 @@ camilo = {
     "actualmente":  "Modelo ML para clasificación de DBO en aguas superficiales",
     "aprendiendo":  ["Full Stack Development", "Deep Learning", "ADSO - SENA"],
     "intereses":    ["Innovación de productos", "IA aplicada a procesos", "Simulación"],
-    "hobbies":      ["☕ Café de especialidad", "🏀 Baloncesto", "⌨️ Programación"],
+    "hobbies":      ["Café de especialidad", "Baloncesto", "Programación"],
 }
 ```
 
@@ -35,7 +35,7 @@ camilo = {
 
 ## 🛠️ Stack Tecnológico
 
-### 🧬 Ingeniería Química & Simulación
+### Ingeniería Química & Simulación
 <div>
   <img src="https://img.shields.io/badge/Aspen_HYSYS-0078D7?style=for-the-badge&logoColor=white" alt="HYSYS"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
@@ -43,7 +43,7 @@ camilo = {
   <img src="https://img.shields.io/badge/FDA_%7C_CODEX_Standards-003087?style=for-the-badge&logoColor=white" alt="Normas"/>
 </div>
 
-### 💻 Programación & Desarrollo
+### Programación & Desarrollo
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -52,7 +52,7 @@ camilo = {
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </div>
 
-### 🤖 Machine Learning & IA
+### Machine Learning & IA
 <div>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="sklearn"/>
   <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logoColor=white" alt="XGBoost"/>
@@ -61,7 +61,7 @@ camilo = {
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" alt="Matplotlib"/>
 </div>
 
-### 🎨 Diseño & Herramientas
+### Diseño & Herramientas
 <div>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
@@ -76,7 +76,7 @@ camilo = {
 
 <div align="center">
 
-### 🌊 Clasificación de DBO mediante Aprendizaje Automático
+### Clasificación de DBO mediante Aprendizaje Automático
 ### *para la Evaluación Ecológica de la Calidad del Agua*
 #### Un Marco Transferible con Aplicaciones en Cuencas Hidrográficas
 
