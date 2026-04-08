@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍🔬 Sobre mí
+## Sobre mí
 
 Soy **Fredy Camilo Bonilla Cristancho**, Ingeniero Químico de la **Universidad Industrial de Santander (UIS)** y Tecnólogo en Análisis y Desarrollo de Software en el **SENA**. Combino la ingeniería química con la inteligencia artificial para construir soluciones reales en la industria alimentaria y el tratamiento de aguas entre otros.
 
@@ -72,7 +72,7 @@ camilo = {
 
 ---
 
-## 🚀 Proyecto Destacado
+## Proyecto Destacado
 
 <div align="center">
 
@@ -111,13 +111,13 @@ camilo = {
 
 ## 💼 Experiencia
 
-**🏭 Productos La Victoria** — Práctica en Innovación y Desarrollo *(Sep 2025 – Feb 2026)*
+**Productos La Victoria** — Práctica en Innovación y Desarrollo *(Sep 2025 – Feb 2026)*
 > Desarrollo de tablas nutricionales, app de codificación + dashboard para análisis de sodio (RMN), pruebas de empaque y estimación de vida útil.
 
-**⚗️ AC Ingeniería** — Auxiliar I+D *(Ago 2025 – Feb 2026)*
+**AC Ingeniería** — Auxiliar I+D *(Ago 2025 – Feb 2026)*
 > Implementación de sensor blando con ML para medir DBO en agua. Desarrollo con Python y Node.js aplicado a procesos químicos.
 
-**📦 Select Bucaramanga** — Asesor Comercial *(2021 – 2024)*
+**Select Bucaramanga** — Asesor Comercial *(2021 – 2024)*
 > Gestión de proveedores, validación de empaques, estrategias de diseño visual y análisis de datos de ventas.
 
 ---
@@ -139,9 +139,9 @@ camilo = {
 
 | Curso | Institución | Año |
 |-------|------------|-----|
-| 🤖 Introducción a la IA con Python | Domestika | 2025 |
-| ⚗️ Manejo de Productos Químicos | SENA | 2024 |
-| 🎨 Producción de Imágenes Digitales | SENA | 2024 |
+| Introducción a la IA con Python | Domestika | 2025 |
+| Manejo de Productos Químicos | SENA | 2024 |
+| Producción de Imágenes Digitales | SENA | 2024 |
 
 ---
 
